@@ -33,7 +33,7 @@ Some parts of this code are adapted from :
 [RepSurf](https://github.com/hancyran/RepSurf)
 [PRNet](https://github.com/WangYueFt/prnet)
 [GMCNET](https://github.com/paul007pl/GMCNet)
-
+[Lepard](git@github.com:rabbityl/lepard.git)
  
 Please consider citing their paper.
 
