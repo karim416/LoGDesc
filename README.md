@@ -1,5 +1,6 @@
 # LoGDesc: local geometric features aggregation for robust point cloud registration    
-[Paper](https://openaccess.thecvf.com/content/ACCV2024/html/Slimani_LoGDesc_Local_geometric_features_aggregation_for_robust_point_cloud_registration_ACCV_2024_paper.html)
+[Paper](https://openaccess.thecvf.com/content/ACCV2024/html/Slimani_LoGDesc_Local_geometric_features_aggregation_for_robust_point_cloud_registration_ACCV_2024_paper.html) //
+
 To test this code on the MVP-RG dataset, please follow the steps below :
 
 1. Download the pre-trained model [here](https://cloud.isir.upmc.fr/s/2yYXiFDyLiKPcHj)
